@@ -21,19 +21,25 @@ This diagram shows my ecommerce website process. It showcases key interactions a
 # Customer pool
 <img width="497" alt="4" src="https://github.com/Anaswaesaha/Modern-Ecommerce-Platforms/assets/109578693/2383e89b-3654-499a-8e9e-e7e1d68bca13">
 
+
 # Customer Pool 
 Represents the group of customers interacting with the platform.
+
 # Start Event (People): 
 Marks the beginning of the customer's journey on the platform.
+
 # Make an Order Process 
  Encompasses the steps related to creating an order.
+
 # Select Products
  The customer selects the desired products from the available options.
 <img width="499" alt="5" src="https://github.com/Anaswaesaha/Modern-Ecommerce-Platforms/assets/109578693/131cd9b0-0f70-43e8-99ee-cca4387adc64">
+
 # Shop now : Refers to details along with purchase. 
 <img width="511" alt="6" src="https://github.com/Anaswaesaha/Modern-Ecommerce-Platforms/assets/109578693/22f95585-d361-44c5-aafe-23efed3c7f2c">
 
 # Check or Buy : Check details Ready to press the buy button.
+
 
 # Identify payment method: Thai QR Payment 
 <img width="350" alt="7" src="https://github.com/Anaswaesaha/Modern-Ecommerce-Platforms/assets/109578693/6454a779-782d-4c19-bcd6-4d29355f911b">
